@@ -9,6 +9,6 @@ build:
     - npm-test
     - wercker/grunt@0.0.2
     - script:
-        name: run gunt tests
+        name: run grunt tests
         code: |
           grunt test
