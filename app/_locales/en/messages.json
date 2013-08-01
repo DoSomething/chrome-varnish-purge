@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "varnish-purge",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A chrome browser plugin that sends a purge HTTP request to the current url",
+    "description": "The description of the application"
+  }
+}
